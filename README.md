@@ -10,14 +10,15 @@ Textify is changing the way the world builds and monetizes AI apps, and we want 
 <h3>Octernship role description</h3>
 We're looking for a AI developer to join the App Development Team. This team is responsible for the AI tools to solve common problems faced by students.
 
-Octernship info	Timelines and Stipend
+<h4>Octernship info	Timelines and Stipend</h4>
 Assignment Deadline	1 April 2023
-Octernship Duration	3 Months
+Octernship Duration	2 Months
 Monthly Stipend	$500 USD
-Recommended qualifications
+
+<h4>Recommended qualifications</h4>
 Experience with Git & GitHub
-Writing modern JavaScript/Node.js
-Passion for Ai applications
+Passion for AI applications
+Good communication and research skills
 
 <h4>Eligibility</h4>
 To participate, you must be:
@@ -26,10 +27,14 @@ To participate, you must be:
 <ul>Active contributor on GitHub (monthly)</ul>
 
 <h4>Assignment</h4>
-<ul>Build an AI application to solve common problems faced by other students </ul>
+<ul>Ideate on possible ways to monetize B2C AI solutions. </ul>
 
 <h4>Task instructions</h4>
-<ul> We want you to identify a problem that is faced by other students, use AI to solve the problem and share the feedback from initial users </ul>
+<ul> We want you to think of ways B2C AI solutions will be monetized in the future.
+For example, in the late 90s, search engines were a hot upcoming technology that allowed people to navigate the web effortlessly. There were multiple business models identified at the time varying in revenue generation capability and mass adoption. Finally, Search powered by targetted advertisement arose as the most suitable commercialization method for this technology.
+We want you to understand the cost structure of AI applications (development, hosting, sales, etc) and consider ways they can be best monetized allowing the best user experience and lower cost (targeted ads, memberships, government fundraising, etc.)
+
+</ul>
 
 <h4>Task Expectations</h4>
-We want you to explore available solutions to common students problem, find a problem that isn't being solved yet and develop an AI powered solution to solve the same.
+We want you to identify a unique monetization opportunity with B2C AI applications. The solution should be both feasible and should also have potential to generate positive cashflow in a 10 period timeframe.
